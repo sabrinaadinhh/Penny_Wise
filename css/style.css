@@ -1,0 +1,71 @@
+header {
+    text-align: center;
+}
+
+header button {
+    align-content: center;
+    background-color:#697A21;
+    color: white;
+    height: 30%;
+    font-size: x-large;
+}
+
+header img {
+    height: 7%;
+    width: 7%;
+}
+
+.savings .jumbotron {
+    background-color: #ECFBD2;
+}
+
+.savings .jumbotron .list-group-item {
+    background-color: #fff;
+    align-content: center;
+    text-align: center;
+    font-size: x-large;
+}
+
+.budget .jumbotron {
+    background-color: #DEF9AE;
+}
+
+.bank .jumbotron {
+    background-color: #CEEC97;
+}
+
+.notifications .jumbotron {
+    background-color: #BBE174;
+}
+
+.pics img {
+    width: 47%;
+    height: 47%;
+}
+
+.budget .jumbotron .list-group-item {
+    background-color: #fff;
+    align-content: center;
+    text-align: center;
+    font-size: x-large;
+}
+
+.bank .jumbotron .list-group-item {
+    background-color: #fff;
+    align-content: center;
+    text-align: center;
+    font-size: x-large;
+}
+
+
+.notifications .jumbotron .list-group-item {
+    background-color: #fff;
+    align-content: center;
+    text-align: center;
+    font-size: x-large;
+}
+
+.savings .jumbotron.list-group-item img {
+    width: 27%;
+    height: 27%;
+}
